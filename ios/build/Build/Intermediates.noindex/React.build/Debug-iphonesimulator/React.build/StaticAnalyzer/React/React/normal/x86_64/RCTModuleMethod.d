@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Base/RCTModuleMethod.mm \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Base/RCTNullability.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/su40011898/POC/BengaluruMarathi/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/su40011898/POC/BengaluruMarathi/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/su40011898/POC/BengaluruMarathi/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Base/RCTCxxConvert.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Base/RCTManagedPointer.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Base/RCTParserUtils.h \
+  /Users/su40011898/POC/BengaluruMarathi/node_modules/react-native/React/Profiler/RCTProfile.h

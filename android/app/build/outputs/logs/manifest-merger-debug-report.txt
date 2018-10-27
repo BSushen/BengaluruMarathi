@@ -1,0 +1,236 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [:react-native-pdf] /Users/su40011898/My projects/BengaluruMarathi/node_modules/react-native-pdf/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-47:12
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/8fffdf5aa0f4a164f43f4bb884e1b553/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/87600043d52455235ba63cce8fdf8087/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.barteksc:android-pdf-viewer:3.1.0-beta.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-3.1.0-beta.1.aar/7f295b1f7c58641fd51d0e7c1e338f27/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/61e68c7006a9ce34bc148715c04f1490/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e7430f52a602fa18b77f967476699ca9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/pdfium-android-1.9.0.aar/61f8c2041d7a1c1012a536fc75aaf3b0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6383655fd83707c8a6c2a9d2f17ed581/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/374aa9905bbd48a403a1cc07f21f8699/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2e6b0d7dcc741cdb53e5683c4cae9c06/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5747368dead11925c0ba45bc09bf62a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/133e3dd0bf093cfef0485d5af4e7caaf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b10b6387ed52780c82820efd96bef3f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/19863b6b5548f68d67343b294cbe53bc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/14de198d61742ab1e00320b0191f3365/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/0822a441bebbf009c98ac8b3842dc2bb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/ee8786fd94a8e12b9a249e6e6262762c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/88097042e2d4734b4fc2443ecf6a1a0e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/2edec1613de3662953bc9d395b145dff/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/e2706c8f70f994ba07a5163c25595398/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d8e6b3a30c31b6528de092c81bcc339c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/973ee4a4bc926ef35831516dd952b91b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/9e12a37ae3759926695c64e8e255012d/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e4ef8f73c9350cf4b80c7b6bebbf4282/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bfa66e0bc33435e3ffe1263c8f33294d/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:6:5-77
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/8fffdf5aa0f4a164f43f4bb884e1b553/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/8fffdf5aa0f4a164f43f4bb884e1b553/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:6:22-75
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:7:5-95
+	tools:node
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:7:22-41
+	android:name
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:7:42-92
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:8:5-101
+REJECTED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:5-81
+	tools:node
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:8:22-41
+	android:name
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:8:42-98
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:9:5-100
+	tools:node
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:9:22-41
+	android:name
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:9:42-97
+application
+ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:11:5-28:19
+MERGED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/8fffdf5aa0f4a164f43f4bb884e1b553/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/8fffdf5aa0f4a164f43f4bb884e1b553/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-v4:26.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6383655fd83707c8a6c2a9d2f17ed581/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6383655fd83707c8a6c2a9d2f17ed581/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/374aa9905bbd48a403a1cc07f21f8699/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/374aa9905bbd48a403a1cc07f21f8699/AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/2edec1613de3662953bc9d395b145dff/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/2edec1613de3662953bc9d395b145dff/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/e2706c8f70f994ba07a5163c25595398/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/e2706c8f70f994ba07a5163c25595398/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:13:7-39
+	android:icon
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:14:7-41
+	android:allowBackup
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:15:7-34
+	android:theme
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:16:7-38
+	android:name
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:12:7-38
+activity#com.bengalurumarathi.MainActivity
+ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:17:7-26:18
+	android:label
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:19:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:21:9-51
+	android:configChanges
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:20:9-79
+	android:name
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:22:9-25:25
+action#android.intent.action.MAIN
+ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:24:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:27:7-84
+	android:name
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml:27:17-81
+uses-sdk
+INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-pdf] /Users/su40011898/My projects/BengaluruMarathi/node_modules/react-native-pdf/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-pdf] /Users/su40011898/My projects/BengaluruMarathi/node_modules/react-native-pdf/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/8fffdf5aa0f4a164f43f4bb884e1b553/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/8fffdf5aa0f4a164f43f4bb884e1b553/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/87600043d52455235ba63cce8fdf8087/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/87600043d52455235ba63cce8fdf8087/AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:android-pdf-viewer:3.1.0-beta.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-3.1.0-beta.1.aar/7f295b1f7c58641fd51d0e7c1e338f27/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:3.1.0-beta.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-3.1.0-beta.1.aar/7f295b1f7c58641fd51d0e7c1e338f27/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/61e68c7006a9ce34bc148715c04f1490/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/61e68c7006a9ce34bc148715c04f1490/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e7430f52a602fa18b77f967476699ca9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e7430f52a602fa18b77f967476699ca9/AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/pdfium-android-1.9.0.aar/61f8c2041d7a1c1012a536fc75aaf3b0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/pdfium-android-1.9.0.aar/61f8c2041d7a1c1012a536fc75aaf3b0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:26.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6383655fd83707c8a6c2a9d2f17ed581/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6383655fd83707c8a6c2a9d2f17ed581/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/374aa9905bbd48a403a1cc07f21f8699/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/374aa9905bbd48a403a1cc07f21f8699/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2e6b0d7dcc741cdb53e5683c4cae9c06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2e6b0d7dcc741cdb53e5683c4cae9c06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5747368dead11925c0ba45bc09bf62a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5747368dead11925c0ba45bc09bf62a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/133e3dd0bf093cfef0485d5af4e7caaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/133e3dd0bf093cfef0485d5af4e7caaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b10b6387ed52780c82820efd96bef3f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b10b6387ed52780c82820efd96bef3f2/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/19863b6b5548f68d67343b294cbe53bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/19863b6b5548f68d67343b294cbe53bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/14de198d61742ab1e00320b0191f3365/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/14de198d61742ab1e00320b0191f3365/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/0822a441bebbf009c98ac8b3842dc2bb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/0822a441bebbf009c98ac8b3842dc2bb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/ee8786fd94a8e12b9a249e6e6262762c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/ee8786fd94a8e12b9a249e6e6262762c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/88097042e2d4734b4fc2443ecf6a1a0e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/88097042e2d4734b4fc2443ecf6a1a0e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/2edec1613de3662953bc9d395b145dff/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/2edec1613de3662953bc9d395b145dff/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d8e6b3a30c31b6528de092c81bcc339c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d8e6b3a30c31b6528de092c81bcc339c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/973ee4a4bc926ef35831516dd952b91b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/973ee4a4bc926ef35831516dd952b91b/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/9e12a37ae3759926695c64e8e255012d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/9e12a37ae3759926695c64e8e255012d/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e4ef8f73c9350cf4b80c7b6bebbf4282/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e4ef8f73c9350cf4b80c7b6bebbf4282/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bfa66e0bc33435e3ffe1263c8f33294d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bfa66e0bc33435e3ffe1263c8f33294d/AndroidManifest.xml:20:5-44
+INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6383655fd83707c8a6c2a9d2f17ed581/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/su40011898/My projects/BengaluruMarathi/android/app/src/main/AndroidManifest.xml
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:22-73
+provider#android.support.v4.content.FileProvider
+ADDED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:40:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:38:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:37:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:41:13-43:58
+	android:resource
+		ADDED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:43:17-55
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/su40011898/My projects/BengaluruMarathi/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:42:17-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6383655fd83707c8a6c2a9d2f17ed581/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/374aa9905bbd48a403a1cc07f21f8699/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/374aa9905bbd48a403a1cc07f21f8699/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6383655fd83707c8a6c2a9d2f17ed581/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/su40011898/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6383655fd83707c8a6c2a9d2f17ed581/AndroidManifest.xml:27:13-51
